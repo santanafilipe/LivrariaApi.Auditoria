@@ -1,0 +1,13 @@
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi.Auditoria\bin\Debug\netcoreapp2.2\LivrariaApi.Auditoria.deps.json
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi.Auditoria\bin\Debug\netcoreapp2.2\LivrariaApi.Auditoria.runtimeconfig.json
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi.Auditoria\bin\Debug\netcoreapp2.2\LivrariaApi.Auditoria.runtimeconfig.dev.json
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi.Auditoria\bin\Debug\netcoreapp2.2\LivrariaApi.Auditoria.dll
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi.Auditoria\bin\Debug\netcoreapp2.2\LivrariaApi.Auditoria.pdb
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi.Auditoria\obj\Debug\netcoreapp2.2\LivrariaApi.Auditoria.csproj.CoreCompileInputs.cache
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi.Auditoria\obj\Debug\netcoreapp2.2\LivrariaApi.Auditoria.RazorAssemblyInfo.cache
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi.Auditoria\obj\Debug\netcoreapp2.2\LivrariaApi.Auditoria.RazorAssemblyInfo.cs
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi.Auditoria\obj\Debug\netcoreapp2.2\LivrariaApi.Auditoria.AssemblyInfoInputs.cache
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi.Auditoria\obj\Debug\netcoreapp2.2\LivrariaApi.Auditoria.AssemblyInfo.cs
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi.Auditoria\obj\Debug\netcoreapp2.2\LivrariaApi.Auditoria.RazorTargetAssemblyInfo.cache
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi.Auditoria\obj\Debug\netcoreapp2.2\LivrariaApi.Auditoria.dll
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi.Auditoria\obj\Debug\netcoreapp2.2\LivrariaApi.Auditoria.pdb
